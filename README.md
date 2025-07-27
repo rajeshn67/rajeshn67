@@ -3,7 +3,7 @@
 
 ---
 
-## 🙋‍♀️ About Me:
+## 👦 About Me:
 
 - 🎓 **BTech in Computer Engineering** from **K.K. Wagh Institute of Engineering Education & Research, Nashik** 
 - 👩‍💻 Passionate **MERN Stack Developer** with strong communication, teamwork, and problem-solving skills.
