@@ -32,10 +32,10 @@
 
 ## 🚀 Projects:
 
-- 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — Decentralized platform for secure biometric and medical data using **MERN Stack**, Blockchain, AI/ML.
-- 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — Waste-to-energy marketplace with **React, Auth0, Stripe** integration.
-- 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — Meal planning app with voting system for mess services.
-- 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — Full-stack education platform built during internship.
+- 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — Inventory manager with billing and auth using MERN.
+- 🔗 [**DevTinder**]() — Connects developers based on skills and interests.
+- 🔗 [**FoodForGood**]() — Platform for food donation between donors and NGOs.
+- 🔗 [**QrGenerator**]([https://stock-sage-wheat.vercel.app/](https://rajeshn67.github.io/Qr-code-Generator/Main.html)) — Generates QR codes using HTML, CSS, and JS.
 
 ---
 
@@ -43,7 +43,7 @@
 
 -  **Mind Spark Mini Hackathon (2025) (KBTCOE)**
 -  **Participant, Campus to Corporate 3.0 (CSI - KKWIEER)**
--  **Participant, Code Quest 2.0 (Debugger’s Club - KKWIEER)** — 3rd place
+-  **Participant, Code Quest 2.0 (Debugger’s Club - KKWIEER)**
 -  **Equinox: Web Battles (CSI-KKWIEER)**
 
 ---
