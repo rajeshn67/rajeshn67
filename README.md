@@ -33,8 +33,8 @@
 ## 🚀 Projects:
 
 - 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — Inventory manager with billing and auth using MERN.
-- 🔗 [**DevTinder**]() — Connects developers based on skills and interests.
-- 🔗 [**FoodForGood**]() — Platform for food donation between donors and NGOs.
+- 🔗 [**DevTinder**](https://devtinderfrontend-1-5rq4.onrender.com) — Connects developers based on skills and interests.
+- 🔗 [**FoodForGood**](https://foodforgoodapkweb.vercel.app) — Platform for food donation between donors and NGOs.
 - 🔗 [**QrGenerator**](https://rajeshn67.github.io/Qr-code-Generator/Main.html) — Generates QR codes using HTML, CSS, and JS.
 
 ---
